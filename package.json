@@ -1,0 +1,19 @@
+{
+  "name": "ar_project",
+  "version": "1.0.0",
+  "description": "small project using ar.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heregoes/AR_project.git"
+  },
+  "author": "Gabriel Nyante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heregoes/AR_project/issues"
+  },
+  "homepage": "https://github.com/heregoes/AR_project#readme"
+}
